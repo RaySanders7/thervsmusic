@@ -1,22 +1,26 @@
 artist:
-  name: Your Awesome Band
-  tagline: Short information about your group, new album, etc
+  name: RVS
+  tagline: Either I'm a genius or I'm highly delusional. I think it's the former, which probably proves the latter.
   # seo_title:
   # seo_description:
   # contact_twitter_username:
-  # contact_phone: 
-  # contact_email: 
+  # contact_phone:
+  # contact_email:
 
 social:
   - name: Facebook
-    url: https://facebook.com
+    url: https://facebook.com/TheRVSbook
   - name: Instagram
-    url: https://instagram.com
+    url: https://instagram.com/FranchICE06
   - name: Twitter
-    url: https://twitter.com
+    url: https://twitter.com/FranchICE06
   - name: Youtube
-    url: https://youtube.com
+    url: https://youtube.com/JewelRockTv
   - name: Spotify
-    url: https://spotify.com
+    url: https://open.spotify.com/artist/52QKOdPRflcDM2p5fmUI4s
+  - name: Apple Music
+    url: https://music.apple.com/us/artist/rvs/502758103
+  - name: Bandcamp
+    url: https://rvsmusic.bandcamp.com
 
 site_language: en
