@@ -20,7 +20,5 @@ social:
     url: https://open.spotify.com/artist/52QKOdPRflcDM2p5fmUI4s
   - name: applemusic
     url: https://music.apple.com/us/artist/rvs/502758103
-  - name: Bandcamp
-    url: https://rvsmusic.bandcamp.com
 
 site_language: en
