@@ -4,11 +4,13 @@
   image: "./images/Covers/ResolutionsCover.jpg"
   links:
     - name: Spotify
-      url: https://open.spotify.com
+      url: https://open.spotify.com/album/6gqMaN5tQl9n5ycfrBxmJR?si=7Lkt49BYQqu2QBqDywnjWw
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/us/album/resolutions-ep/1497309972
+    - name: Tidal
+      url: https://tidal.com/browse/album/129751348
     - name: Bandcamp
-      url: https://bandcamp.com
+      url: https://rvsmusic.bandcamp.com/album/resolutions
 
 - title: Llama Sing
   date: 2019-11-08
@@ -16,13 +18,13 @@
   image: "./images/Covers/LlamaSingCover.jpg"
   links:
     - name: Spotify
-      url: https://open.spotify.com
+      url: https://open.spotify.com/album/5eu44lspcRbB7WSPsv4yMY?si=Ud35Vdw2TuaFlqfp9M6lqA
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/us/album/llama-sing-single/1485741526
     - name: Tidal
-      url: https://bandcamp.com
+      url: https://tidal.com/browse/album/121610044
     - name: Bandcamp
-      url: https://bandcamp.com
+      url: https://rvsmusic.bandcamp.com/track/llama-sing
 
 - title: Roulette
   date: 2019-10-11
@@ -30,13 +32,13 @@
   image: "./images/Covers/RouletteCover.jpg"
   links:
     - name: Spotify
-      url: https://open.spotify.com
+      url: https://open.spotify.com/album/0m0EjVoocFvbmqk5SvBmuj?si=AXQ6Bl_vTtSBpupq0stK9A
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/us/album/roulette-single/1482422505
     - name: Tidal
-      url: https://bandcamp.com
+      url: https://tidal.com/browse/album/119521417
     - name: Bandcamp
-      url: https://bandcamp.com
+      url: https://rvsmusic.bandcamp.com/track/roulette
 
 - title: A Very Franch Christmas
   date: 2018-12-14
@@ -44,13 +46,13 @@
   image: "./images/Covers/AVeryFranchChristmas.jpg"
   links:
     - name: Spotify
-      url: https://open.spotify.com
+      url: https://open.spotify.com/album/4ZZAVOzA5sqHKAPSaFuutv?si=f48oHSWsQcmpMz64pfESAA
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/us/album/a-very-franch-christmas-ep/1447694885
     - name: Tidal
-      url: https://bandcamp.com
+      url: https://tidal.com/browse/album/101078759
     - name: Bandcamp
-      url: https://bandcamp.com
+      url: https://rvsmusic.bandcamp.com/album/a-very-franch-christmas
 
 - title: ICE!!!!!!!
   date: 2018-12-14
@@ -58,13 +60,11 @@
   image: "./images/Covers/ICE!!!!!!!.jpg"
   links:
     - name: Spotify
-      url: https://open.spotify.com
-    - name: Apple Music
-      url: https://music.apple.com
+      url: https://open.spotify.com/album/6ZZJJNZKzNqfiSXUmJKU79?si=-Gm8LaszSQmn4W4t17X7EQ
     - name: Tidal
-      url: https://bandcamp.com
+      url: https://tidal.com/browse/album/122695609
     - name: Bandcamp
-      url: https://bandcamp.com
+      url: https://rvsmusic.bandcamp.com/track/ice
 
 - title: Paragon of Dopeness
   date: 2013-05-28
@@ -72,10 +72,20 @@
   image: "./images/Covers/ParagonOfDopeness.jpg"
   links:
     - name: Spotify
-      url: https://open.spotify.com
+      url: https://open.spotify.com/album/3g1xRsHcMelfCLOb92WYjz?si=_QBSMjS0Sfq7RoVLv3wJKw
     - name: Apple Music
-      url: https://music.apple.com
+      url: https://music.apple.com/us/album/paragon-of-dopeness/654034345
     - name: Tidal
-      url: https://bandcamp.com
+      url: https://tidal.com/browse/album/44009633
     - name: Bandcamp
-      url: https://bandcamp.com
+      url: https://rvsmusic.bandcamp.com/album/paragon-of-dopeness
+
+- title: Dreamin'
+  date: 2013-05-28
+  release_type: Album
+  image: "./images/Covers/Dreamin.jpg"
+  links:
+    - name: Apple Music
+      url: https://music.apple.com/us/album/dreamin/1192542247
+    - name: Bandcamp
+      url: https://rvsmusic.bandcamp.com/album/dreamin
