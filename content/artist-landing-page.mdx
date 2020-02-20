@@ -8,7 +8,11 @@ Either I'm a genius or I'm highly delusional. I think it's the former, which pro
 
 <Releases releases={props.releases} />
 
-<Shows shows={props.shows} />
+<div>
+{
+  props.shows.length > 1 ? <Shows shows={props.shows} /> : null
+}
+</div>
 
 ## Contact
 
