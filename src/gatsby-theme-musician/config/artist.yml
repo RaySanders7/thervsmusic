@@ -20,5 +20,7 @@ social:
     url: https://open.spotify.com/artist/52QKOdPRflcDM2p5fmUI4s
   - name: applemusic
     url: https://music.apple.com/us/artist/rvs/502758103
+  - name: soundcloud
+    url: https://soundcloud.com/rvsofficial
 
 site_language: en
