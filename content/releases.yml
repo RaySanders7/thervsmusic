@@ -80,8 +80,20 @@
     - name: Bandcamp
       url: https://rvsmusic.bandcamp.com/album/paragon-of-dopeness
 
+- title: The Layoff EP
+  date: 2012-02-14
+  release_type: EP
+  image: "./images/Covers/TheLayoffEp.jpg"
+  links:
+    - name: Apple Music
+      url: https://music.apple.com/us/album/the-layoff-ep/502758102
+    - name: Tidal
+      url: https://tidal.com/browse/album/44060420
+    - name: Bandcamp
+      url: https://rvsmusic.bandcamp.com/album/the-layoff-ep
+
 - title: Dreamin'
-  date: 2013-05-28
+  date: 2011-03-01
   release_type: Album
   image: "./images/Covers/Dreamin.jpg"
   links:
