@@ -9,6 +9,11 @@ import Social from "gatsby-theme-musician/src/components/social"
 export default ({ children }) => {
   const { title, social, artist } = useSiteMetadata()
 
+  const formatCopyright = (title) => (
+    artist.recordLabel ? artist.recordLabel : title
+  );
+
+
   let hasSocial = false
   if (social.length) {
     if (typeof social[0].name !== "undefined") {
@@ -38,7 +43,7 @@ export default ({ children }) => {
         <div sx={{ variant: "layout.footer.copyright" }}>{children}</div>
       ) : (
         <small sx={{ variant: "layout.footer.copyright" }}>
-          Copyright © {new Date().getFullYear()} {title}. All rights reserved.
+          Copyright © {new Date().getFullYear()} {formatCopyright(title)}. All rights reserved.
           <br />
           Built with{" "}
           <Styled.a href="https://gatsbyjs.org" rel="external nofollow">
