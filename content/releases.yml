@@ -1,3 +1,17 @@
+- title: Car Test
+  date: 2020-06-05
+  release_type: EP
+  image: "./images/Covers/CarTest.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/0Ozlqf2pJKlfXTQw0e0t3k
+    - name: Apple Music
+      url: https://music.apple.com/us/album/car-test-ep/1514677966
+    - name: Tidal
+      url: https://tidal.com/browse/album/142460112
+    - name: Bandcamp
+      url: https://rvsmusic.bandcamp.com/album/car-test
+
 - title: Resolutions
   date: 2020-01-20
   release_type: EP
