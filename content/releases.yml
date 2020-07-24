@@ -1,3 +1,15 @@
+- title: Mr. Skip - All In Feat. RVS & Pancho Rucker
+  date: 2020-06-05
+  release_type: Single
+  image: "./images/Covers/AllInCover.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/5neK2dGd5KqpDKhoSPDepj?si=VOFVZV5AQlG_-XaeL_4bYg
+    - name: Apple Music
+      url: https://music.apple.com/us/album/all-in-feat-rvs-pancho-rucker-single/1517657003
+    - name: Tidal
+      url: https://tidal.com/browse/album/144497921
+
 - title: Car Test
   date: 2020-06-05
   release_type: EP
