@@ -1,3 +1,17 @@
+- title: Break It Down
+  date: 2020-09-04
+  release_type: Single
+  image: "./images/Covers/BreakItDown.png"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/5PGCUUofwTe9yWNDvmT0xf
+    - name: Apple Music
+      url: https://music.apple.com/us/album/break-it-down-single/1529279648
+    - name: Tidal
+      url: https://tidal.com/browse/album/153464892
+    - name: Bandcamp
+      url: https://rvsmusic.bandcamp.com/album/break-it-down
+
 - title: Mr. Skip - All In Feat. RVS & Pancho Rucker
   date: 2020-06-05
   release_type: Single
