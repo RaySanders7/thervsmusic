@@ -1,3 +1,31 @@
+- title: Tired Woke
+  date: 2020-10-23
+  release_type: Single
+  image: "./images/Covers/TiredWokeCover.png"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/track/4fgaSjqDzarfYsQFuBHTio
+    - name: Apple Music
+      url: https://music.apple.com/us/album/tired-woke/1535626328?i=1535626329
+    - name: Tidal
+      url: https://tidal.com/browse/album/158507940
+    - name: Bandcamp
+      url: https://thervsmusic.com/track/tired-woke
+
+- title: Flip the Table
+  date: 2020-10-16
+  release_type: Single
+  image: "./images/Covers/FlipTheTableCoverV2.png"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/track/2KKq6kE1q4mnsaAiBKGIYe
+    - name: Apple Music
+      url: https://music.apple.com/us/album/flip-the-table-single/1533256295
+    - name: Tidal
+      url: https://tidal.com/browse/album/156489171
+    - name: Bandcamp
+      url: https://thervsmusic.com/track/flip-the-table
+
 - title: Break It Down
   date: 2020-09-04
   release_type: Single
